@@ -1,0 +1,7 @@
+encrypt:
+  value: ENC(scEjemHosjc/hjA8saT7Y6uC65bs0swg)
+jasypt:
+  encryptor:
+    password: hello
+server:
+  port: 8081
